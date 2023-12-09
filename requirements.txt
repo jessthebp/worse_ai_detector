@@ -1,0 +1,4 @@
+rFlask
+nltk
+flask-ngrok
+gunicorn
